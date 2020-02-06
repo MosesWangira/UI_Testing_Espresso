@@ -33,4 +33,5 @@ class SecondaryActivtyTest{
         onView(withId(R.id.title_secondary))
             .check(matches(withText(R.string.secondary_activity)))
     }
+
 }
