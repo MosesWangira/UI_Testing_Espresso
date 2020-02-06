@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UI Testing Espresso</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="next">next</string>
+    <string name="secondary_activity">Secondary Activity</string>
+    <string name="previous">previous</string>
+</resources>
